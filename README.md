@@ -1,5 +1,5 @@
 # Podstawy-przetwarzania-Obrazu
-przetwarzanie obrazów z użyciem Pythona
+Przetwarzanie obrazów z użyciem Pythona
 Projekt przedstawia podstawowe operacje przetwarzania obrazu rastrowego z wykorzystaniem języka Python oraz popularnych bibliotek.
 
 # Wykorzystane biblioteki
